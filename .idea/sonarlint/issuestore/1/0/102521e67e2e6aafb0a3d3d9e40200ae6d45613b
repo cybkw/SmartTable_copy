@@ -1,0 +1,21 @@
+
+J
+java:S1066<"/Merge this if statement with the enclosing one.(áµŒüÿÿÿÿ
+A
+java:S1075U"&Remove this hard-coded path-delimiter.(Å—¬’ûÿÿÿÿ
+d
+java:S3252j"NUse static access with "android.provider.MediaStore$MediaColumns" for "TITLE".(ığ¨¢
+k
+java:S3252k"UUse static access with "android.provider.MediaStore$MediaColumns" for "DISPLAY_NAME".(¾§«•
+n
+java:S3252l"SUse static access with "android.provider.MediaStore$MediaColumns" for "DATE_ADDED".(ö­şÿıÿÿÿÿ
+m
+java:S3252m"RUse static access with "android.provider.MediaStore$MediaColumns" for "MIME_TYPE".(È˜šÄıÿÿÿÿ
+v
+java:S3252n"[Use static access with "android.provider.MediaStore$Images$ImageColumns" for "DESCRIPTION".(®ÓÀùÿÿÿÿ
+j
+java:S3252o"TUse static access with "android.provider.MediaStore$MediaColumns" for "ORIENTATION".(Ù§ş
+b
+java:S3252p"MUse static access with "android.provider.MediaStore$MediaColumns" for "DATA".(ğ¼Àz
+c
+java:S3252q"MUse static access with "android.provider.MediaStore$MediaColumns" for "SIZE".(Øğî

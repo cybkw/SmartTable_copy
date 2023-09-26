@@ -1,0 +1,12 @@
+
+E
+java:S1121‘".Extract the assignment out of this expression.(àÜãş
+J
+java:S18745"/Remove this use of "Handler"; it is deprecated.(×»ëØşÿÿÿÿ
+<	java:S131S""Add a default case to this switch.(öù¼’şÿÿÿÿ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(Ñ‰éİ
+V	java:S125q"<This block of commented-out lines of code should be removed.(Ø º“şÿÿÿÿ
+P	java:S125‹"<This block of commented-out lines of code should be removed.(¬¨
+8	java:S131©""Add a default case to this switch.(úé¢å
+^
+java:S1126­"BReplace this if-then-else statement by a single method invocation.(ñ˜–ûøÿÿÿÿ

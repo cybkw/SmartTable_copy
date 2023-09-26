@@ -1,0 +1,25 @@
+
+K
+java:S1066Š"/Merge this if statement with the enclosing one.(øŽ‰Ýøÿÿÿÿ
+a
+java:S2184}"DCast one of the operands of this subtraction operation to a "float".(‚«ñä8×¬¦ù¬1
+]
+java:S2184}"@Cast one of the operands of this integer division to a "double".(‚«ñä8Ø¬¦ù¬1
+c
+java:S2184"ACast one of the operands of this addition operation to a "float".(ƒû×Ôþÿÿÿÿ8Ø¬¦ù¬1
+b
+java:S2184"@Cast one of the operands of this integer division to a "double".(ƒû×Ôþÿÿÿÿ8Ø¬¦ù¬1
+W
+java:S2184¼"@Cast one of the operands of this integer division to a "double".(ƒ£»‘
+W
+java:S2184¿"@Cast one of the operands of this integer division to a "double".(ƒ£»‘
+]
+java:S2184Ø"ACast one of the operands of this addition operation to a "float".(¯ˆÅ¸úÿÿÿÿ
+[
+java:S2184Ù"DCast one of the operands of this subtraction operation to a "float".(È ˆô
+u
+java:S14503"_Remove the "rotateTextHeight" field and declare it as a local variable in the relevant methods.(Ôª²é
+S
+java:S1117t"=Rename "scaleData" which hides the field declared at line 59.(“½Ä§
+9
+java:S1659è""Declare "endY" on a separate line.(ßúÓŸ

@@ -1,0 +1,9 @@
+
+q
+java:S1104"[Make defaultFontSize a static final constant or non-public and provide accessors if needed.(¾Ðâ¬
+w
+java:S1104"\Make defaultFontColor a static final constant or non-public and provide accessors if needed.(¾£©Ñûÿÿÿÿ
+K
+java:S1444"5Make this "public static defaultFontSize" field final(¾Ðâ¬
+Q
+java:S1444"6Make this "public static defaultFontColor" field final(¾£©Ñûÿÿÿÿ

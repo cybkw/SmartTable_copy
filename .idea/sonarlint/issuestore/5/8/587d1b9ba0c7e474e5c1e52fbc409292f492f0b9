@@ -1,0 +1,16 @@
+
+{
+java:S1450"`Remove the "horizontalPadding" field and declare it as a local variable in the relevant methods.(Ã€¤¨ýÿÿÿÿ
+t
+java:S1450"^Remove the "verticalPadding" field and declare it as a local variable in the relevant methods.(•ãÅÝ
+T
+java:S5993"9Change the visibility of this constructor to "protected".(—­×§ýÿÿÿÿ
+T
+java:S5993""9Change the visibility of this constructor to "protected".(ˆ¶¢„ûÿÿÿÿ
+_
+java:S1659O"DDeclare "imgLeft" and all following declarations on a separate line.(´Ìïäÿÿÿÿÿ
+<	java:S131P""Add a default case to this switch.(Æóõµýÿÿÿÿ
+I
+java:S1068"3Remove this unused "verticalPadding" private field.(•ãÅÝ
+P
+java:S1068"5Remove this unused "horizontalPadding" private field.(Ã€¤¨ýÿÿÿÿ

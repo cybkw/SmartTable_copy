@@ -1,0 +1,13 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öƒ”Š
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìåº½
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨îÈğ
+i	java:S116"ORename this field "STEP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÜÚûÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(óÜÚûÿÿÿÿ
+T
+java:S1155(">Use isEmpty() to check whether the collection is empty or not.(É¹•î
+A
+java:S1168F"+Return an empty collection instead of null.(¥¹ï
+Y
+java:S1659N">Declare "b" and all following declarations on a separate line.(ÍûÄÍüÿÿÿÿ

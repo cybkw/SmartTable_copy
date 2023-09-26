@@ -1,0 +1,27 @@
+
+j
+java:S1192b"HDefine a constant instead of duplicating this literal "isCheck" 5 times.(ÖÏÂ´ÿÿÿÿÿ8ÊçØ¬1
+}
+java:S1488ğ"_Immediately return this expression instead of assigning it to the temporary variable "strings".(ñ´öÖ8ÊçØ¬1
+E
+java:S5411j"(Use a primitive boolean expression here.( ıëè8‘ÊçØ¬1
+E
+java:S5411x"(Use a primitive boolean expression here.( ıëè8‘ÊçØ¬1
+F
+java:S5411†"(Use a primitive boolean expression here.( ıëè8‘ÊçØ¬1
+F
+java:S5411”"(Use a primitive boolean expression here.( ıëè8‘ÊçØ¬1
+F
+java:S5411¢"(Use a primitive boolean expression here.( ıëè8‘ÊçØ¬1
+t
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(îÀÙûÿÿÿÿ8¤ÊçØ¬1
+:
+java:S21194"Save and re-use this "Random".(¼İÅf8¥ÊçØ¬1
+Y	java:S125¯"<This block of commented-out lines of code should be removed.(ºÕ¿¨8«ÊçØ¬1
+^	java:S125³"<This block of commented-out lines of code should be removed.(ÍÛ„ıÿÿÿÿÿ8«ÊçØ¬1
+S
+java:S1874â"0Remove this use of "getColor"; it is deprecated.(Ÿ¶±¼úÿÿÿÿ8¸ÓèØ¬1
+_
+java:S1126æ"AReplace this if-then-else statement by a single return statement.(ıûÁ8­ÊçØ¬1
+M
+java:S1874‚"0Remove this use of "getColor"; it is deprecated.(şúò;8ºÓèØ¬1

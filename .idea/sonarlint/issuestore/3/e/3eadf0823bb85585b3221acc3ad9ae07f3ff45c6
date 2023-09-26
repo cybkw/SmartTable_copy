@@ -1,0 +1,53 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(ãßÔ8Ëô¥×¬1
+L
+java:S3740'"/Provide the parametrized type for this generic.(ğïù“8Ëô¥×¬1
+L
+java:S3740H"/Provide the parametrized type for this generic.(ù£Úì8Ëô¥×¬1
+R
+java:S3740®"/Provide the parametrized type for this generic.(»²„ºÿÿÿÿÿ8Ìô¥×¬1
+M
+java:S3740ğ"/Provide the parametrized type for this generic.(«ñ¹8Ìô¥×¬1
+M
+java:S3740Ÿ"/Provide the parametrized type for this generic.(«ñ¹8Ìô¥×¬1
+M
+java:S3740Ğ"/Provide the parametrized type for this generic.(«ñ¹8Ìô¥×¬1
+R
+java:S3740ï"/Provide the parametrized type for this generic.(íê†…ıÿÿÿÿ8Ìô¥×¬1
+R
+java:S3740÷"/Provide the parametrized type for this generic.(“®Ì¶ıÿÿÿÿ8Ìô¥×¬1
+w
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎËÕ8Íô¥×¬1
+w
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎËÕ8Íô¥×¬1
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎËÕ8Íô¥×¬1
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎËÕ8Îô¥×¬1
+v
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äø¿G8Îô¥×¬1
+v	java:S135•"YReduce the total number of break and continue statements in this loop to use at most one.(¹ÏÔ¦8Îô¥×¬1
+v	java:S135Ê"YReduce the total number of break and continue statements in this loop to use at most one.(¹ÏÔ¦8Ïô¥×¬1
+w
+java:S1210©"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(““Û›8÷¥×¬1
+O
+java:S3011õ",This accessibility update should be removed.(×¦¿ÿøÿÿÿÿ8™÷¥×¬1
+u
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Å¾“Ñúÿÿÿÿ8š÷¥×¬1
+\
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(İçÓ‰8›÷¥×¬1
+O
+java:S3011¡",This accessibility update should be removed.(×¦¿ÿøÿÿÿÿ8œ÷¥×¬1
+u
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(°’šŠıÿÿÿÿ8÷¥×¬1
+\
+java:S1155Ä">Use isEmpty() to check whether the collection is empty or not.(İçÓ‰8÷¥×¬1
+O
+java:S3011×",This accessibility update should be removed.(×¦¿ÿøÿÿÿÿ8 ÷¥×¬1
+u
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‚šíùÿÿÿÿ8¡÷¥×¬1
+:
+java:S2757ˆ"Was "-=" meant instead?(¸Öì•üÿÿÿÿ8£÷¥×¬1
+:
+java:S2757"Was "-=" meant instead?(¸Öì•üÿÿÿÿ8£÷¥×¬1

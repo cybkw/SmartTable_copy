@@ -1,0 +1,27 @@
+
+Z
+java:S2184J"DCast one of the operands of this subtraction operation to a "float".(˜ä ï
+Z
+java:S2184J"DCast one of the operands of this subtraction operation to a "float".(˜ä ï
+\
+java:S2184K"ACast one of the operands of this addition operation to a "float".(¦…§›üÿÿÿÿ
+\
+java:S2184K"ACast one of the operands of this addition operation to a "float".(¦…§›üÿÿÿÿ
+Z
+java:S2184k"DCast one of the operands of this subtraction operation to a "float".(Œ¸ú
+Z
+java:S2184k"DCast one of the operands of this subtraction operation to a "float".(Œ¸ú
+7
+java:S1170!"!Make this final field static too.(€öÁŸ
+‰
+java:S1845½"rRename method "setCenterCirclePercent" to prevent any misunderstanding/clash with method "setCenterCirclepercent".(µÈÕÉ
+~
+java:S4144½"gUpdate this method so that its implementation is not identical to "setCenterCirclepercent" on line 181.(µÈÕÉ
+m
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Í§÷ýÿÿÿÿÿ
+G
+java:S1874>"1Remove this use of "saveLayer"; it is deprecated.(Ú÷Ëù
+Y
+java:S1117?">Rename "startAngle" which hides the field declared at line 33.(ý¹ñ•øÿÿÿÿ
+Y
+java:S1117@">Rename "totalAngle" which hides the field declared at line 29.(‹ËÉœÿÿÿÿÿ

@@ -1,0 +1,20 @@
+
+g	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¹˜ß
+g	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄàÛ
+l	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¦“¨ÿÿÿÿÿ
+l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆòÓ’øÿÿÿÿ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğí¦
+g	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–èã
+k
+java:S1104#"PMake dp10 a static final constant or non-public and provide accessors if needed.(·¼Ôªıÿÿÿÿ
+s	java:S116+"YRename this field "YSequenceStyle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¶Êõşÿÿÿÿ
+s	java:S116/"YRename this field "XSequenceStyle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã“™¾üÿÿÿÿ
+q	java:S116C"\Rename this field "SequenceGridStyle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÑò
+x	java:S116x"^Rename this field "YSequenceBackground" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç÷´£ıÿÿÿÿ
+x	java:S116|"^Rename this field "XSequenceBackground" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÿšòıÿÿÿÿ
+v	java:S116 "`Rename this field "XSequenceCellBgFormat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëğ–
+{	java:S116¤"`Rename this field "YSequenceCellBgFormat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÎ‘ııÿÿÿÿ
+L
+java:S1133Ù"5Do not forget to remove this deprecated code someday.(îî¦š
+?
+java:S1123Ù"(Add the missing @deprecated Javadoc tag.(îî¦š

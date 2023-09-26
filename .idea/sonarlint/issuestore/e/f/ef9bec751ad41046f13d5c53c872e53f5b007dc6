@@ -1,0 +1,27 @@
+
+E
+java:S1066d"/Merge this if statement with the enclosing one.(ÿ…¡Û
+E
+java:S1066p"/Merge this if statement with the enclosing one.(ÿ…¡Û
+x
+java:S1488ƒ"\Immediately return this expression instead of assigning it to the temporary variable "rect".(‘Ü¨ıÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Æ‡¸
+k
+java:S32521"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(Ò¸†‡øÿÿÿÿ
+k
+java:S3252S"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(Ò¸†‡øÿÿÿÿ
+_
+java:S4201d"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÿ…¡Û
+_
+java:S4201p"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÿ…¡Û
+A
+java:S1659~"+Declare "displayHeight" on a separate line.(û«íì
+U
+java:S1874€"9Remove this use of "getDefaultDisplay"; it is deprecated.(Ê¿ªÿÿÿÿÿ
+N
+java:S1874€"2Remove this use of "getMetrics"; it is deprecated.(Ê¿ªÿÿÿÿÿ
+F
+java:S1197‘"*Move the array designators [] to the type.(·ÍÙ±şÿÿÿÿ
+W
+java:S1117•";Rename "margin" which hides the field declared at line 145.(Ú”À˜úÿÿÿÿ

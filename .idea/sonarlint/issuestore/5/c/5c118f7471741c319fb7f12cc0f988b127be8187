@@ -1,0 +1,15 @@
+
+L
+java:S1066©"/Merge this if statement with the enclosing one.(’¼İ"8øÙ×¬1
+M
+java:S1066å"/Merge this if statement with the enclosing one.(ŞœØ8ùÙ×¬1
+W	java:S125R"<This block of commented-out lines of code should be removed.(öı¤'8”ƒÙ×¬1
+u
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¸—‘ûÿÿÿÿ8–ƒÙ×¬1
+E
+java:S1659—""Declare "size" on a separate line.(€©¬›şÿÿÿÿ8—ƒÙ×¬1
+U
+java:S1135¦"2Complete the task associated to this TODO comment.(ö‘¦Ñûÿÿÿÿ8™ƒÙ×¬1
+Y	java:S125ì"<This block of commented-out lines of code should be removed.(–›ü—8ƒÙ×¬1
+é
+java:S6541‡"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 70 to 64, Complexity from 16 to 14, Nesting Level from 6 to 2, Number of Variables from 26 to 6.(¸—‘ûÿÿÿÿ8¢ƒÙ×¬1

@@ -1,0 +1,11 @@
+
+c
+java:S2184?"ACast one of the operands of this addition operation to a "float".(Ã¹¸úÿÿÿÿ8Óˆë×¬1
+^
+java:S2184O"ACast one of the operands of this addition operation to a "float".(• Ã8Óˆë×¬1
+o
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(‘óç8Æ‰ë×¬1
+]
+java:S1117±":Rename "format" which hides the field declared at line 27.(Ù½Êàüÿÿÿÿ8Ë‰ë×¬1
+ã
+java:S65419"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 80 to 64, Complexity from 20 to 14, Nesting Level from 3 to 2, Number of Variables from 25 to 6.(‘óç8Í‰ë×¬1

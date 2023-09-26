@@ -1,0 +1,28 @@
+
+D
+java:S1604ñ"(Make this anonymous inner class a lambda(ç¨†øÿÿÿÿ
+D
+java:S1604Ñ"(Make this anonymous inner class a lambda(ç¨†øÿÿÿÿ
+D
+java:S1604ç"(Make this anonymous inner class a lambda(ç¨†øÿÿÿÿ
+D
+java:S1604ú"(Make this anonymous inner class a lambda(ç¨†øÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(ç¨†øÿÿÿÿ
+:
+java:S1659."$Declare "mDownY" on a separate line.(•£¿º
+h
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(²¢™®
+7	java:S131c""Add a default case to this switch.(úé¢å
+]
+java:S1126i"BReplace this if-then-else statement by a single method invocation.(ˆùŠƒşÿÿÿÿ
+>
+java:S1185Ù"(Remove this method to simply inherit it.(¤ñÓ/
+i
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(ÌÎÆ
+E
+java:S1659¶")Declare "isFullShowY" on a separate line.(¾Ş¡ûÿÿÿÿ
+K
+java:S3398á"/Move this method into "OnTableGestureListener".(İˆÄ‰üÿÿÿÿ
+İ
+java:S6541•"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 74 to 64, Complexity from 19 to 14, Nesting Level from 3 to 2, Number of Variables from 17 to 6.(ÌÎÆ

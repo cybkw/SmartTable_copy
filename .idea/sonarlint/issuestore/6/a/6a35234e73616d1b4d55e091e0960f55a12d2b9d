@@ -1,0 +1,17 @@
+
+°
+java:S1192@"äDefine a constant instead of duplicating this literal "IllegalAccessException :Please make sure that access objects are allowed!" 3 times.(ıÿê÷
+û
+java:S1192="ÇDefine a constant instead of duplicating this literal "NoSuchFieldException :Please check whether field name is correct!" 3 times.(≥Êßë¸ˇˇˇˇ
+D
+java:S1604≈"(Make this anonymous inner class a lambda(¢íÆ¥¸ˇˇˇˇ
+T
+java:S11553">Use isEmpty() to check whether the collection is empty or not.(·“∆é
+h
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(·¨í÷
+V
+java:S1119U";Refactor the code to remove this label and the need for it.(óÔ•â˝ˇˇˇˇ
+U
+java:S1155ß">Use isEmpty() to check whether the collection is empty or not.(·“∆é
+i
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(‡ô”Ñ

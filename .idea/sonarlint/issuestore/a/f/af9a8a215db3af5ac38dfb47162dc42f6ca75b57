@@ -1,0 +1,41 @@
+
+R
+java:S3740ö"/Provide the parametrized type for this generic.(å£Ú™üÿÿÿÿ8˜µšÚ¬1
+s	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Š–åøÿÿÿÿ8™µšÚ¬1
+g
+java:S2184ç"DCast one of the operands of this subtraction operation to a "float".(ûßéïıÿÿÿÿ8›µšÚ¬1
+d
+java:S2184ç"ACast one of the operands of this addition operation to a "float".(ûßéïıÿÿÿÿ8›µšÚ¬1
+t
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(äƒëŠıÿÿÿÿ8Í˜›Ú¬1
+Z
+java:S1854"8Remove this useless assignment to local variable "type".(’ËÊÿûÿÿÿÿ8Í˜›Ú¬1
+I
+java:S1659V"'Declare "maxColumn" on a separate line.(ıÿ€‘üÿÿÿÿ8Î˜›Ú¬1
+K
+java:S1481")Remove this unused "type" local variable.(’ËÊÿûÿÿÿÿ8Ğ˜›Ú¬1
+N
+java:S1874•"0Remove this use of "getColor"; it is deprecated.(¯šíù8Ñ˜›Ú¬1
+N
+java:S1874¿"0Remove this use of "getColor"; it is deprecated.(Ã²şà8ŸŸÙ¬1
+N
+java:S1874À"0Remove this use of "getColor"; it is deprecated.(ËÜ«8Ó˜›Ú¬1
+S
+java:S1874Ä"0Remove this use of "getColor"; it is deprecated.(ñ»¸£ÿÿÿÿÿ8Ô˜›Ú¬1
+N
+java:S1874Ó"0Remove this use of "getColor"; it is deprecated.(ü›º8Ô˜›Ú¬1
+c
+java:S2147"ECombine this catch with the one at line 255, which has the same body.(Å¡ß8Ö˜›Ú¬1
+O
+java:S3011û",This accessibility update should be removed.(ÚÃô¦úÿÿÿÿ8œŸŸÙ¬1
+O
+java:S3011ü",This accessibility update should be removed.(Ú©Şüıÿÿÿÿ8ŸŸÙ¬1
+O
+java:S3011ı",This accessibility bypass should be removed.(âèÛäşÿÿÿÿ8ŸŸÙ¬1
+I
+java:S3011ş",This accessibility bypass should be removed.(ö¦À8×˜›Ú¬1
+b
+java:S3358œ"DExtract this nested ternary operation into an independent statement.(—ºŒ”8Ø˜›Ú¬1
+F	java:S108°")Either remove or fill this block of code.(ï­£Ä8Û˜›Ú¬1
+è
+java:S6541T"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 69 to 64, Complexity from 15 to 14, Nesting Level from 6 to 2, Number of Variables from 35 to 6.(äƒëŠıÿÿÿÿ8Ü˜›Ú¬1

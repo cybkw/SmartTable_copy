@@ -1,0 +1,21 @@
+
+m
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¨Œşÿÿÿÿ
+O
+java:S1874<"9Remove this use of "getDefaultDisplay"; it is deprecated.(€ªó‘
+F
+java:S1874<"0Remove this use of "getWidth"; it is deprecated.(€ªó‘
+3
+java:S2119@"Save and re-use this "Random".(¼İÅf
+J
+java:S1874U"4Remove this use of "SimpleTarget"; it is deprecated.(ÿ”°
+R
+java:S1874d"0Remove this use of "getColor"; it is deprecated.(ãááùÿÿÿÿ8Å«®Û¬1
+M
+java:S1874e"0Remove this use of "getColor"; it is deprecated.(®Ú…Ö8Å«®Û¬1
+S
+java:S1874’"0Remove this use of "getColor"; it is deprecated.(Àï–šúÿÿÿÿ8Ç«®Û¬1
+N
+java:S1874"0Remove this use of "getColor"; it is deprecated.(ø¹€´8é”°Û¬1
+N
+java:S1874¿"0Remove this use of "getColor"; it is deprecated.(ÃöƒÎ8ë”°Û¬1

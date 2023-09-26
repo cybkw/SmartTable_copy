@@ -1,0 +1,31 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(œ‚òüÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "value".(ãÿ©îıÿÿÿÿ
+N
+java:S1874"3Remove this use of "getCellType"; it is deprecated.(óëÕŠùÿÿÿÿ
+O
+java:S1874"9Remove this use of "CELL_TYPE_NUMERIC"; it is deprecated.(ÀÉßş
+n
+java:S3252"XUse static access with "org.apache.poi.ss.usermodel.DateUtil" for "isCellDateFormatted".(‚ğƒ
+g
+java:S3252!"QUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_STRING".(‘„¤€
+N
+java:S1874!"8Remove this use of "CELL_TYPE_STRING"; it is deprecated.(‘„¤€
+h
+java:S3252$"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BOOLEAN".(ıØğƒ
+O
+java:S1874$"9Remove this use of "CELL_TYPE_BOOLEAN"; it is deprecated.(ıØğƒ
+m
+java:S3252'"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_FORMULA".(Îàè‡úÿÿÿÿ
+T
+java:S1874'"9Remove this use of "CELL_TYPE_FORMULA"; it is deprecated.(Îàè‡úÿÿÿÿ
+k
+java:S3252*"PUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BLANK".(©Èº´üÿÿÿÿ
+R
+java:S1874*"7Remove this use of "CELL_TYPE_BLANK"; it is deprecated.(©Èº´üÿÿÿÿ
+k
+java:S3252-"PUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_ERROR".(ÈìÙâüÿÿÿÿ
+R
+java:S1874-"7Remove this use of "CELL_TYPE_ERROR"; it is deprecated.(ÈìÙâüÿÿÿÿ

@@ -1,0 +1,23 @@
+
+p
+java:S1104"ZMake isLeftHasValue a static final constant or non-public and provide accessors if needed.(ú¸Œ¡
+q
+java:S1104"[Make isRightHasValue a static final constant or non-public and provide accessors if needed.(Þçãý
+n
+java:S1104"XMake maxLeftValue a static final constant or non-public and provide accessors if needed.(æÇ¸ë
+n
+java:S1104"XMake minLeftValue a static final constant or non-public and provide accessors if needed.(¥¿Š„
+o
+java:S1104"YMake maxRightValue a static final constant or non-public and provide accessors if needed.(üÛñÐ
+t
+java:S1104"YMake minRightValue a static final constant or non-public and provide accessors if needed.(ÚÊ—òùÿÿÿÿ
+l
+java:S1104"VMake totalScale a static final constant or non-public and provide accessors if needed.(»åŸè
+p
+java:S1104"UMake scaleRect a static final constant or non-public and provide accessors if needed.(Ÿ¤à³ùÿÿÿÿ
+n
+java:S1104""SMake rowSize a static final constant or non-public and provide accessors if needed.(ì×‹æýÿÿÿÿ
+f
+java:S1104#"PMake zoom a static final constant or non-public and provide accessors if needed.(äæÜÔ
+m
+java:S3776`"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¹¼³ãÿÿÿÿÿ

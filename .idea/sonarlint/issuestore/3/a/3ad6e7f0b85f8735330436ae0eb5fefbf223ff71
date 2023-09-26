@@ -1,0 +1,17 @@
+
+b
+java:S2184„"DCast one of the operands of this subtraction operation to a "float".(é¸µ˜8ÕÙßÙ¬1
+u
+java:S1450#"YRemove the "textHeight" field and declare it as a local variable in the relevant methods.(ŠÕùV8ÆÛßÙ¬1
+a
+java:S1117">Rename "textHeight" which hides the field declared at line 35.(ÚÕÇÔşÿÿÿÿ8ĞÛßÙ¬1
+i
+java:S1871£"MThis branch's code block is the same as the block for the branch on line 160.(Êñ™½ùÿÿÿÿ
+p
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Æ¯›è8ÔÛßÙ¬1
+^	java:S125¿"<This block of commented-out lines of code should be removed.(ü¶Óøÿÿÿÿÿ8ÕÛßÙ¬1
+^	java:S125Å"<This block of commented-out lines of code should be removed.(·ö¬­şÿÿÿÿ8ÕÛßÙ¬1
+\
+java:S1155ì">Use isEmpty() to check whether the collection is empty or not.(ËËÎ¹8ÖÛßÙ¬1
+_
+java:S1126Š"AReplace this if-then-else statement by a single return statement.(Õüı8×ÛßÙ¬1

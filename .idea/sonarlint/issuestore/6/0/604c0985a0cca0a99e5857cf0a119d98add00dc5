@@ -1,0 +1,16 @@
+
+n
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(²‹›Øüÿÿÿÿ8È§ÑÛ¬1
+¤
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸™áúÿÿÿÿ8ô§ÑÛ¬1
+v
+java:S1450"TRemove the "table" field and declare it as a local variable in the relevant methods.(ãÜ¬Àûÿÿÿÿ8õ§ÑÛ¬1
+t
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(¨Œşÿÿÿÿ8ö§ÑÛ¬1
+£
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç”³ùÿÿÿÿ8ù§ÑÛ¬1
+
+java:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰Óûf8ú§ÑÛ¬1
+D	java:S131""Add a default case to this switch.(²‹›Øüÿÿÿÿ8û§ÑÛ¬1
+é
+java:S6541!"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 116 to 64, Complexity from 18 to 14, Nesting Level from 4 to 2, Number of Variables from 37 to 6.(¨Œşÿÿÿÿ8ü§ÑÛ¬1

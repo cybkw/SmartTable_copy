@@ -1,0 +1,28 @@
+
+K
+java:S1066¤"/Merge this if statement with the enclosing one.(à«›Öüÿÿÿÿ
+K
+java:S1066Ğ"/Merge this if statement with the enclosing one.(•š³Òüÿÿÿÿ
+l	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óô•ıÿÿÿÿ
+?
+java:S1604å"(Make this anonymous inner class a lambda(ÉãÃ®
+?
+java:S1604ƒ"(Make this anonymous inner class a lambda(ÉãÃ®
+D
+java:S1604·"(Make this anonymous inner class a lambda(¡ßˆÄøÿÿÿÿ
+‚
+java:S4165ß"fRemove this useless assignment; "provider" already holds the assigned value along all execution paths.(¦¤áÿÿÿÿÿ
+m
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÕÆ¾ùıÿÿÿÿ
+T
+java:S1117Ã"=Rename "tableData" which hides the field declared at line 50.(§ÍÇ
+W	java:S125è"<This block of commented-out lines of code should be removed.(ˆĞÊûûÿÿÿÿ
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(íÙ¯øÿÿÿÿ
+Z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ãŒüíøÿÿÿÿ
+]
+java:S1117¥"ARename "defaultHeight" which hides the field declared at line 51.(ÿ›ê”ÿÿÿÿÿ
+W
+java:S1117§"@Rename "defaultWidth" which hides the field declared at line 52.(§ãòê
+W	java:S125±"<This block of commented-out lines of code should be removed.(Ï‚Êúşÿÿÿÿ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(ãŸ›Â

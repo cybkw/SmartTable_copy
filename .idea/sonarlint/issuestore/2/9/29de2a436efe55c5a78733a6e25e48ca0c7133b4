@@ -1,0 +1,24 @@
+
+s	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Š–åøÿÿÿÿ8£ó¢Û¬1
+:
+java:S21199"Save and re-use this "Random".(¼İÅf8çó¢Û¬1
+R
+java:S1874N"0Remove this use of "getColor"; it is deprecated.(ãááùÿÿÿÿ8èó¢Û¬1
+M
+java:S1874O"0Remove this use of "getColor"; it is deprecated.(®Ú…Ö8èó¢Û¬1
+R
+java:S1874R"0Remove this use of "getColor"; it is deprecated.(Àï–šúÿÿÿÿ8éó¢Û¬1
+M
+java:S1874T"0Remove this use of "getColor"; it is deprecated.(ø¹€´8éó¢Û¬1
+S
+java:S1874§"0Remove this use of "getColor"; it is deprecated.(Ÿ¶öşÿÿÿÿ8øó¢Û¬1
+S
+java:S1874¹"0Remove this use of "getColor"; it is deprecated.(é²ÿÿÿÿÿ8ùó¢Û¬1
+S
+java:S1874º"0Remove this use of "getColor"; it is deprecated.(ö£øÿÿÿÿ8ùó¢Û¬1
+N
+java:S1874É"0Remove this use of "getColor"; it is deprecated.(ü›º8úó¢Û¬1
+N
+java:S1874Í"0Remove this use of "getColor"; it is deprecated.(óÓÌ’8úó¢Û¬1
+Q
+java:S1144–"4Remove this unused private "showChartDialog" method.(ëÊŠ8üó¢Û¬1

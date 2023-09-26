@@ -1,0 +1,29 @@
+
+[
+java:S5993}"9Change the visibility of this constructor to "protected".(¾›¢úÿÿÿÿ8Ú”ıØ¬1
+R
+java:S1874e"0Remove this use of "getColor"; it is deprecated.(®¿¶¥øÿÿÿÿ8ß”ıØ¬1
+R
+java:S1874"/Remove this use of "execute"; it is deprecated.(¿ñ›–ıÿÿÿÿ8á”ıØ¬1
+R
+java:S1874–"/Remove this use of "execute"; it is deprecated.(’¸¿ïşÿÿÿÿ8á”ıØ¬1
+L
+java:S1874œ".Remove this use of "cancel"; it is deprecated.(²ªé—8á”ıØ¬1
+Q
+java:S1874 ".Remove this use of "cancel"; it is deprecated.(â…¼ùÿÿÿÿ8á”ıØ¬1
+T
+java:S1874ª"1Remove this use of "AsyncTask"; it is deprecated.(†Ì€ùÿÿÿÿ8â”ıØ¬1
+F	java:S108¹")Either remove or fill this block of code.(”ı¾8ã”ıØ¬1
+I
+java:S1168»"+Return an empty collection instead of null.(¥¹ï8ã”ıØ¬1
+m
+java:S1874¿"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ç¨Æİıÿÿÿÿ8ã”ıØ¬1
+O
+java:S1874æ"1Remove this use of "AsyncTask"; it is deprecated.(İëàÏ8ç”ıØ¬1
+F	java:S108õ")Either remove or fill this block of code.(”ı¾8è”ıØ¬1
+D
+java:S1168ø"&Return an empty array instead of null.(¥¹ï8è”ıØ¬1
+m
+java:S1874ü"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¨¾ùæşÿÿÿÿ8è”ıØ¬1
+u
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¨¾ùæşÿÿÿÿ8è”ıØ¬1

@@ -1,0 +1,24 @@
+
+D
+java:S1604¿"(Make this anonymous inner class a lambda(ç¨†øÿÿÿÿ
+
+java:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ¶¤½øÿÿÿÿ
+˜
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾¦¸…
+:
+java:S1659O"$Declare "mDownY" on a separate line.(•£¿º
+i
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦¹Ã
+8	java:S131”""Add a default case to this switch.(úé¢å
+^
+java:S1126š"BReplace this if-then-else statement by a single method invocation.(ˆùŠƒşÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(»€”ÿÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(ÇÚ¥†ùÿÿÿÿ
+>
+java:S1185Ş"(Remove this method to simply inherit it.(¤ñÓ/
+K
+java:S3398¯"/Move this method into "OnChartGestureListener".(İˆÄ‰üÿÿÿÿ
+M
+java:S1144Ê"1Remove this unused private "toRectBottom" method.(Ÿ·ğ°ûÿÿÿÿ
+D
+java:S1144Ï".Remove this unused private "toRectTop" method.(öÿ—7

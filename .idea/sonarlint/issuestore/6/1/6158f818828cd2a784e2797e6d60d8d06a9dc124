@@ -1,0 +1,116 @@
+
+i
+java:S1845"NRename field "WHITE" to prevent any misunderstanding/clash with field "white".(ùÆŸùÿÿÿÿ
+b
+java:S1845,"LRename field "GRAY" to prevent any misunderstanding/clash with field "gray".(§¥›‘
+d
+java:S1845B"NRename field "BLACK" to prevent any misunderstanding/clash with field "black".(êÌ–õ
+`
+java:S1845M"JRename field "RED" to prevent any misunderstanding/clash with field "red".(ü¥‚´
+b
+java:S1845X"LRename field "PINK" to prevent any misunderstanding/clash with field "pink".(€ù‚
+k
+java:S1845c"PRename field "ORANGE" to prevent any misunderstanding/clash with field "orange".(„İÏ·şÿÿÿÿ
+k
+java:S1845n"PRename field "YELLOW" to prevent any misunderstanding/clash with field "yellow".(„ÉöÉúÿÿÿÿ
+i
+java:S1845y"NRename field "GREEN" to prevent any misunderstanding/clash with field "green".(ÿõ«ÿÿÿÿÿ
+n
+java:S1845„"RRename field "MAGENTA" to prevent any misunderstanding/clash with field "magenta".(®ñå‡ÿÿÿÿÿ
+h
+java:S1845"LRename field "CYAN" to prevent any misunderstanding/clash with field "cyan".(¥õİüÿÿÿÿ
+h
+java:S1845š"LRename field "BLUE" to prevent any misunderstanding/clash with field "blue".(ÑéşÉşÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÅºıÆÿÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ùÆŸùÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(öò…²
+`
+java:S1124!"EReorder the modifiers to comply with the Java Language Specification.(Éáï­ûÿÿÿÿ
+[
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(‹‘ ¹
+[
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(§¥›‘
+[
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(Ïı—ô
+`
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(¤Š¬úşÿÿÿÿ
+`
+java:S1124<"EReorder the modifiers to comply with the Java Language Specification.(¥…Ùÿÿÿÿÿ
+[
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(êÌ–õ
+`
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(”¤ÿÖøÿÿÿÿ
+[
+java:S1124M"EReorder the modifiers to comply with the Java Language Specification.(ü¥‚´
+[
+java:S1124R"EReorder the modifiers to comply with the Java Language Specification.(ŞÆö
+[
+java:S1124X"EReorder the modifiers to comply with the Java Language Specification.(€ù‚
+[
+java:S1124]"EReorder the modifiers to comply with the Java Language Specification.(‘´¹
+`
+java:S1124c"EReorder the modifiers to comply with the Java Language Specification.(„İÏ·şÿÿÿÿ
+`
+java:S1124h"EReorder the modifiers to comply with the Java Language Specification.(óÅ÷Ÿúÿÿÿÿ
+`
+java:S1124n"EReorder the modifiers to comply with the Java Language Specification.(„ÉöÉúÿÿÿÿ
+`
+java:S1124s"EReorder the modifiers to comply with the Java Language Specification.(¸¡¥úüÿÿÿÿ
+`
+java:S1124y"EReorder the modifiers to comply with the Java Language Specification.(ÿõ«ÿÿÿÿÿ
+`
+java:S1124~"EReorder the modifiers to comply with the Java Language Specification.(’şÂïÿÿÿÿÿ
+a
+java:S1124„"EReorder the modifiers to comply with the Java Language Specification.(®ñå‡ÿÿÿÿÿ
+\
+java:S1124‰"EReorder the modifiers to comply with the Java Language Specification.(¦¯Ë½
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¥õİüÿÿÿÿ
+a
+java:S1124”"EReorder the modifiers to comply with the Java Language Specification.(Ç×ø´úÿÿÿÿ
+a
+java:S1124š"EReorder the modifiers to comply with the Java Language Specification.(ÑéşÉşÿÿÿÿ
+A
+java:S1197­"*Move the array designators [] to the type.(·Ëä
+A
+java:S1197¹"*Move the array designators [] to the type.(“Ì¬â
+>
+java:S1125á"'Remove the unnecessary boolean literal.(¡Ÿî¬
+>
+java:S1125ƒ"'Remove the unnecessary boolean literal.(¡Ÿî¬
+d	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹ëŸ
+Z
+java:S1659¾">Declare "g" and all following declarations on a separate line.(ŞÁÚÿÿÿÿÿ
+8	java:S131Ç""Add a default case to this switch.(ÎÔä
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Âš6
+^
+java:S1659‚"GDeclare "saturation" and all following declarations on a separate line.(­¨úÚ
+?
+java:S1905‹"(Remove this unnecessary cast to "float".(¾ÒØ
+D
+java:S1905Ğ"(Remove this unnecessary cast to "float".(ÂÀ‹Ûûÿÿÿÿ
+>
+java:S1905Ñ"(Remove this unnecessary cast to "float".(àÒ»0
+D
+java:S1905Ò"(Remove this unnecessary cast to "float".(ñÖœâúÿÿÿÿ
+D
+java:S1905Ó"(Remove this unnecessary cast to "float".(Éº«óûÿÿÿÿ
+D
+java:S1905ğ"(Remove this unnecessary cast to "float".(ÂÀ‹Ûûÿÿÿÿ
+>
+java:S1905ñ"(Remove this unnecessary cast to "float".(àÒ»0
+D
+java:S1905ò"(Remove this unnecessary cast to "float".(ñÖœâúÿÿÿÿ
+p
+java:S3012–"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ºöãö
+p
+java:S3012¶"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ºöãö
+5
+java:S2183¸"Remove this useless shift(Ï¬ßÈùÿÿÿÿ
+0
+java:S2183Ÿ"Remove this useless shift(Å»™‹
+0
+java:S2183è"Remove this useless shift(ßëÇ¬

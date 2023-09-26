@@ -1,0 +1,10 @@
+
+]
+java:S2184!"BCast one of the operands of this division operation to a "double".(¬ù•ßùÿÿÿÿ
+\
+java:S21848"ACast one of the operands of this division operation to a "float".(µªÛ‚ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È‚„´úÿÿÿÿ
+—
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›™•þ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¬÷˜¡

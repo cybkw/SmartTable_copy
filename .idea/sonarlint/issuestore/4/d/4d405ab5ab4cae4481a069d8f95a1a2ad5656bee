@@ -1,0 +1,20 @@
+
+V
+java:S2184"@Cast one of the operands of this integer division to a "double".(Ò‹û@
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È‚„´úÿÿÿÿ
+—
+java:S1186s"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›™•ş
+œ
+java:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–µ–³üÿÿÿÿ
+N
+java:S1117c"8Rename "path" which hides the field declared at line 38.(µÑ€š
+C
+java:S1905~"(Remove this unnecessary cast to "float".(ßÅÃæúÿÿÿÿ
+>
+java:S1905"(Remove this unnecessary cast to "float".(Ò‹û@
+i
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ö¿§Ò
+A
+java:S1659‰"*Declare "minPositionY" on a separate line.(´áÃ¦
+A
+java:S1659Š"%Declare "centerY" on a separate line.(²’Æ‘şÿÿÿÿ

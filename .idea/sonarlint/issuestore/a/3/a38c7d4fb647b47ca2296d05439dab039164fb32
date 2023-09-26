@@ -1,0 +1,13 @@
+
+E
+java:S3740&"/Provide the parametrized type for this generic.(Í¿ú“
+J
+java:S3740B"/Provide the parametrized type for this generic.(€•¸Ëýÿÿÿÿ
+{
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "genericClazz".(ßŠõ†
+Y
+java:S1155#">Use isEmpty() to check whether the collection is empty or not.(Íð÷—ûÿÿÿÿ
+m
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(€•¸Ëýÿÿÿÿ
+B
+java:S3011E",This accessibility update should be removed.(˜ÂÓ˜

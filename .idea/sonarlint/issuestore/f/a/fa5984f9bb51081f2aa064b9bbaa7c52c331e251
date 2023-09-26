@@ -1,0 +1,15 @@
+
+r	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÌĞøÿÿÿÿ8š¯¿Ú¬1
+a
+java:S2184"DCast one of the operands of this subtraction operation to a "float".(ÿ¨ö`8›¯¿Ú¬1
+¤
+java:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸™áúÿÿÿÿ8Š°¿Ú¬1
+v
+java:S1450 "TRemove the "table" field and declare it as a local variable in the relevant methods.(ãÜ¬Àûÿÿÿÿ8‹°¿Ú¬1
+t
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(¨Œşÿÿÿÿ8°¿Ú¬1
+W	java:S125e"<This block of commented-out lines of code should be removed.(çı¥8’°¿Ú¬1
+
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰Óûf8’°¿Ú¬1
+é
+java:S6541""ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 116 to 64, Complexity from 21 to 14, Nesting Level from 4 to 2, Number of Variables from 33 to 6.(¨Œşÿÿÿÿ8•°¿Ú¬1

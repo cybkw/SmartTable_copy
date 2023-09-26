@@ -1,0 +1,15 @@
+
+g
+java:S1104"QMake width a static final constant or non-public and provide accessors if needed.(øÂ½
+h
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(ñ½
+k
+java:S1104"PMake left a static final constant or non-public and provide accessors if needed.(»†ÎØüÿÿÿÿ
+j
+java:S1104"OMake top a static final constant or non-public and provide accessors if needed.(Ö¹œüşÿÿÿÿ
+g
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(çªÆà
+m
+java:S1104!"RMake column a static final constant or non-public and provide accessors if needed.( øÈ´ıÿÿÿÿ
+œ
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í™¹Äúÿÿÿÿ

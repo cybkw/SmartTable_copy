@@ -1,0 +1,10 @@
+
+7
+java:S1643"Use a StringBuilder instead.(ä„Şûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(à×„½ıÿÿÿÿ
+h	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ŞÇÚúÿÿÿÿ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(Åù–
+_
+java:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Åù–

@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È‚„´úÿÿÿÿ
+g
+java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(»Ü×	
+T
+java:S1155(">Use isEmpty() to check whether the collection is empty or not.(ºÓ¼ï
+Y
+java:S11553">Use isEmpty() to check whether the collection is empty or not.(ê°ãïûÿÿÿÿ

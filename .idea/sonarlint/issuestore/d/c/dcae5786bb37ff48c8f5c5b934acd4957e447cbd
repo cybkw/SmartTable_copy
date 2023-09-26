@@ -1,0 +1,33 @@
+
+L
+java:S3740)"/Provide the parametrized type for this generic.(„–»Ì8ü®¢×¬1
+R
+java:S3740Ž"/Provide the parametrized type for this generic.(Áƒùæûÿÿÿÿ8ý®¢×¬1
+R
+java:S3740—"/Provide the parametrized type for this generic.(±ÑåÎûÿÿÿÿ8ý®¢×¬1
+R
+java:S3740°"/Provide the parametrized type for this generic.(éÏð‘úÿÿÿÿ8ý®¢×¬1
+M
+java:S3740¾"/Provide the parametrized type for this generic.(‚¢…É8ý®¢×¬1
+R
+java:S3740Á"/Provide the parametrized type for this generic.(éÏð‘úÿÿÿÿ8ý®¢×¬1
+R
+java:S3740Ë"/Provide the parametrized type for this generic.(–Ž¿ìúÿÿÿÿ8þ®¢×¬1
+n	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª“‡÷8€¯¢×¬1
+n	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‡¤Ù8‚¯¢×¬1
+K
+java:S1604°"(Make this anonymous inner class a lambda(éÏð‘úÿÿÿÿ8‚¯¢×¬1
+K
+java:S1604Á"(Make this anonymous inner class a lambda(éÏð‘úÿÿÿÿ8‚¯¢×¬1
+o	java:S116%"ZRename this field "XSequenceFormat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘‡²ú
+v	java:S116&"ZRename this field "YSequenceFormat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®†¶Ó8ý¯¢×¬1
+]	java:S125O"<This block of commented-out lines of code should be removed.(þ‘ÇÃûÿÿÿÿ8‚°¢×¬1
+^
+java:S1117‰";Rename "columns" which hides the field declared at line 28.(—‡ö€ûÿÿÿÿ8‡°¢×¬1
+^
+java:S1117™";Rename "columns" which hides the field declared at line 28.(—‡ö€ûÿÿÿÿ8ˆ°¢×¬1
+o
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(€ñÖf8‰°¢×¬1
+X	java:S125É"<This block of commented-out lines of code should be removed.(®ÓçT8‹°¢×¬1
+Y	java:S125Ð"<This block of commented-out lines of code should be removed.(äî“ˆ8‹°¢×¬1
+^	java:S125ø"<This block of commented-out lines of code should be removed.(‚ý÷êøÿÿÿÿ8Œ°¢×¬1
